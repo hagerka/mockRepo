@@ -1,5 +1,5 @@
 //second mocked function
 
-export return function(){
+export default function(){
   // do more stuff here
 }
