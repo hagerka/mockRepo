@@ -1,5 +1,5 @@
 // mocked function inside of folder
 
-export return function (){
+export default function (){
   // do yet more stuff
 }
